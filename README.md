@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## My Golden Retriever Jojo
 
-You can use the [editor on GitHub](https://github.com/ambirb/ActualSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Jojo is very talented. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Evidence: pictures below
 
-### Markdown
+### Jojo Sleep
+![jojosleep](https://lh3.googleusercontent.com/BDmK6NESZn54CHCsho69wcBGGJDXyMZ47kxD5TR6W6pZNFeDVVhKCUv3W1X_SWOkRx5-pQsJ4IUsj_cA2ijVvfnoZC0etYOcsI72uk5njr_vh_EBwumg4vGMZF6ejige6WCBmEZgzVp9AOQEkodwqcg5tHOio8YMq1pgQirEWxuJNmS0v-q9hicGnlMdTeXAbIFQ-tD_4EBtXTEQxHX0DZbAdvmVE5mqXMl44rOMfiQUMqBBmMSBcRmQrwNK5dSRv-IHUeT2BovrbwS10BnoIWXwyXOZxPOt43gwRZr8UtfpvfrM0uApmakCWckIJejVK2La1PSy_JSKs2vcgvP-jUOvgxJAquhOUOF2SIAYQb5JXgXsRKnDe9U1kIEpNcB7vkKu26CZPDX1HBnZm70tnj9JFB2GkdZhqO0OmFGpcUcEybKVlF5JOh8epV5kpq16G9H1yXgmD33iApixJs3AkDdEWCb18gXBEAfssROfjA5eWXRLOdrSuAYtzSCsrwfKukB6LmkeL1iDZeXf_OZOuBSZekC7--y20rFXdMqLOeT5RHNqNGEtebzXuiHW6NZI6CsdPc--c-j9HhrDgeTQ1XrLKFnpJ2MJFg1XhivNADoa1z58p53bKnZEmDdlBJVHgKYdftMVvVQj_iimH0sLulXy9tnrG7LHJtixX-1jNud0MapC8BgoGcf_BMc7iA=w703-h937-no?authuser=2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+She sleep.
 
-```markdown
-Syntax highlighted code block
+Acting Cute: S+
 
-# Header 1
-## Header 2
-### Header 3
+### Jojo Unicorn
+![jojounicorn](https://lh3.googleusercontent.com/nKd7YSDLrzwDtoS7j5rYA4xG2C2ltX8XDBkcw0w-52ebPYzQjkOiPeCc3blDoAVKpE4C83QRJixtiLVHChl_xvFaZytpG7FzHnkdj23lAZK8iNbuJovDTFU7q6sDAX8dRWQcje2rnEPugkEeXT4G7gLdJfZLotjQ0pf9tIfD0UanHR7MDk41EANh4q29Q-NyAYRFrrq--AeKzpfYWxk3Tl8ujeVWVsRBDMk6CASKn4-yd7L9DBhn_WkqovpqVP2U0VJpLfNzz9YUrvUxJSw9EPkYMuf3KuBVqO-UXPqX6cI0lFaHWuPTwyFKm3PGbAbiFmHQONmgCPmmDaZH4J3JdjLMse89zxLi42AB_tkhVVl_fFEd6CS7MZJmwhK8OsDQ90whm-0WVt6YLNZTnBSS4u8oepVJvD1ep2sbziFasmV-We1Zq-tzVYI0xfLHzh3phCKOdAWzzYZ3Mo0JkTRf1zitCefjQAyFix7R4Cc65CuIbeoIJOANz02UrChaiB0OpsGx05m1LFuWufTWJa_QU-8rhSl0TYAT49hvGOKjuAX0dt8CMJtJXdzUmJNNYEQQqBxT4m-CdGgUxw9YmNlUhS-k8l5D1Xda6b4j6onMGxnXfZOCGCsjK1Elf3atwl0aaaysU0rBHcz2BqX6aUvmHV7eelq1OPE_NBpamoR7CL5-h21dR1ubs356qacATw=w600-h800-no?authuser=2)
 
-- Bulleted
-- List
+She unicorn.
 
-1. Numbered
-2. List
+Disguise: S+
 
-**Bold** and _Italic_ and `Code` text
+### Conclusion
 
-[Link](url) and ![Image](src)
-```
+In conclusion, a very good girl. The best.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Extra Resources
 
-### Jekyll Themes
+Visit [this website](https://www.akc.org/dog-breeds/golden-retriever/) for more information about Golden Retrievers.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ambirb/ActualSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
